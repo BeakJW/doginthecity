@@ -2,4 +2,4 @@
 
 졸작
 
-[논문](/path/ABLE_논문.hwp)
+[논문](/path/ABLE.hwp)
